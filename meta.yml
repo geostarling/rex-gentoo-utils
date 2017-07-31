@@ -1,0 +1,6 @@
+Name: Rex::Gentoo::Utils
+Description: Miscelaneous utilities
+Author: Jiří Špaček spaceji3@fit.cvut.cz
+License: MIT
+PerlRequire:
+  - Term::ANSIColor
